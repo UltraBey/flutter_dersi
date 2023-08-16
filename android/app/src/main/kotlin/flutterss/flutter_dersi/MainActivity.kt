@@ -1,4 +1,4 @@
-package flutterss.filmler
+package flutterss.flutter_dersi
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
 {
-    "name": "filmler",
-    "short_name": "filmler",
+    "name": "flutter_dersi",
+    "short_name": "flutter_dersi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
