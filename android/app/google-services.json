@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989720190134",
+    "project_id": "flutter-dersi-e3f51",
+    "storage_bucket": "flutter-dersi-e3f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989720190134:android:bab29fdecb18ffea9f9a17",
+        "android_client_info": {
+          "package_name": "flutterss.flutter_dersi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989720190134-onc9mbdvt67mete7o72fc8ur3sl7cm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCld4n9wBOtj1PGnfbphOQB31rSffGOt6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989720190134-onc9mbdvt67mete7o72fc8ur3sl7cm8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
